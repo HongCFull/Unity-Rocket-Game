@@ -645,6 +645,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3763105085379313020, guid: 0ef8e0ad65285be479b1aa6d791ded75,
+        type: 3}
+      propertyPath: period
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3763105085379313020, guid: 0ef8e0ad65285be479b1aa6d791ded75,
+        type: 3}
+      propertyPath: directionVector.z
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 4227084384537642190, guid: 0ef8e0ad65285be479b1aa6d791ded75,
         type: 3}
       propertyPath: m_RootOrder
